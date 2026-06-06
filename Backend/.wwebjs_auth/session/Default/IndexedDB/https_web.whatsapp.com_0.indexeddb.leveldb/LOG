@@ -1,0 +1,17 @@
+2026/06/05-10:47:57.523 3a98 Reusing MANIFEST E:\FixIt-App\fixit-app\Backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/05-10:47:57.524 3a98 Recovering log #349
+2026/06/05-10:47:57.525 3a98 Reusing old log E:\FixIt-App\fixit-app\Backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000349.log 
+2026/06/05-10:47:58.434 3a98 Compacting 1@1 + 5@2 files
+2026/06/05-10:47:58.517 3a98 Generated table #352@1: 67744 keys, 2209318 bytes
+2026/06/05-10:47:58.569 3a98 Generated table #353@1: 54141 keys, 2220054 bytes
+2026/06/05-10:47:58.603 3a98 Generated table #354@1: 32032 keys, 2195328 bytes
+2026/06/05-10:47:58.637 3a98 Generated table #355@1: 15257 keys, 2181002 bytes
+2026/06/05-10:47:58.672 3a98 Generated table #356@1: 23043 keys, 2109565 bytes
+2026/06/05-10:47:58.672 3a98 Compacted 1@1 + 5@2 files => 10915267 bytes
+2026/06/05-10:47:58.672 3a98 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/06/05-10:47:58.673 3a98 Delete type=2 #344
+2026/06/05-10:47:58.673 3a98 Delete type=2 #345
+2026/06/05-10:47:58.673 3a98 Delete type=2 #346
+2026/06/05-10:47:58.673 3a98 Delete type=2 #347
+2026/06/05-10:47:58.673 3a98 Delete type=2 #348
+2026/06/05-10:47:58.673 3a98 Delete type=2 #350
